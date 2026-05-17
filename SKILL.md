@@ -1,3 +1,8 @@
+---
+name: seedance-archery-example
+description: Example Seedance prompt showing an archery scene with strict identity continuity, teal-to-black color grade, and a 15-second shot list from draw to impact.
+---
+
 ## SKILL To show the Seedance example prompt 
 # This scene is an example to show Archery scene
 
